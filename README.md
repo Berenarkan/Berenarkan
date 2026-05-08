@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**Berenarkan/Berenarkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Beren Arkan
 
-Here are some ideas to get you started:
+I’m a 21-year-old Software Engineering student at FINKI, Ss. Cyril and Methodius University in Skopje, North Macedonia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning how software works, solving problems, and building practical projects. I’m curious by nature, motivated to improve every day, and interested in turning ideas into working solutions.
+
+Currently, I’m focused on strengthening my foundations in C++, algorithms, data structures, and software development principles.
+
+## Current Focus
+
+- C++
+- Problem solving
+- Data structures and algorithms
+- Command-line applications
+
+## Projects
+
+- Smart TODO CLI — a terminal-based task management application built with C++
+
+## Goals
+
+I’m continuously learning, building projects, and improving as a software engineer through hands-on practice and consistent exploration.
