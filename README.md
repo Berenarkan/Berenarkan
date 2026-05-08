@@ -1,5 +1,5 @@
 
-# Hi, I'm Beren Arkan
+# Hi, I'm Beren 
 
 I’m a 21-year-old Software Engineering student at FINKI, Ss. Cyril and Methodius University in Skopje, North Macedonia.
 
