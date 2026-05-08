@@ -14,10 +14,6 @@ Currently, I’m focused on strengthening my foundations in C++, algorithms, dat
 - Data structures and algorithms
 - Command-line applications
 
-## Projects
-
-- Smart TODO CLI — a terminal-based task management application built with C++
-
 ## Goals
 
 I’m continuously learning, building projects, and improving as a software engineer through hands-on practice and consistent exploration.
