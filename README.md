@@ -16,4 +16,4 @@ Currently, I’m focused on strengthening my foundations in C++, algorithms, dat
 
 ## Goals
 
-I’m continuously learning, building projects, and improving as a software engineer through hands-on practice and consistent exploration..
+I’m continuously learning, building projects, and improving as a software engineer through hands-on practice and consistent exploration.
